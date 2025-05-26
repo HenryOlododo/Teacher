@@ -35,5 +35,4 @@ This document is useful for educators, policymakers, and researchers interested 
 ## Acknowledgments
 Data visualization generated using `matplotlib`.
 
----
-End of README file. Let me know if you'd like any modifications!
+
